@@ -4,7 +4,7 @@ This tiny task basically shows how to add a button to toolbar.
 
 ## Getting Started
 
-Anacona is recommended to open jupyter notebook. Be sure to update the version of notebook to later than 5.1 or label may not appear. (Not sure).
+Anaconda is recommended to open jupyter notebook. Be sure to update the version of notebook to later than 5.1 or label may not appear. (Not sure).
 
 
 ### Prerequisites
