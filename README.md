@@ -18,11 +18,10 @@ $ git clone https://github.com/Heavynest/tinytask.git
 
 ### Installing
 
-Remember the path of the file you pulled down and type the following code in your Anaconda Prompt.
+Remember the path of the file you just downloaded and type the following code in your Anaconda Prompt.
 
 ```
 jupyter nbextension install path/to/my_extension/ 
-
 ```
 
 And then enable the extension.
@@ -31,8 +30,7 @@ And then enable the extension.
 ```
 jupyter nbextension enable my_extension/main 
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
+Now this action is enabled.
 
 ## Running the API
 
